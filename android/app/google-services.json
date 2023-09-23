@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "758650732799",
+    "project_id": "staff-tracker-81d75",
+    "storage_bucket": "staff-tracker-81d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758650732799:android:2fbc817f2c3ec731544cca",
+        "android_client_info": {
+          "package_name": "com.example.staff_tracker_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758650732799-nhpd9bigqgdt7bi4ce4a31ncjh4vb90h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnAk4tLMm9cIzJac_i9_ihVBzQVLxdNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758650732799-nhpd9bigqgdt7bi4ce4a31ncjh4vb90h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758650732799-7fvbrfvsdiv0jgtbm1tuu9ttpvv4plha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staffTrackerUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758650732799:android:06b9e782c837ec76544cca",
+        "android_client_info": {
+          "package_name": "com.example.staff_tracker_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758650732799-nhpd9bigqgdt7bi4ce4a31ncjh4vb90h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnAk4tLMm9cIzJac_i9_ihVBzQVLxdNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758650732799-nhpd9bigqgdt7bi4ce4a31ncjh4vb90h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758650732799-7fvbrfvsdiv0jgtbm1tuu9ttpvv4plha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staffTrackerUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
